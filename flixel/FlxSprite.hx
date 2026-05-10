@@ -179,10 +179,6 @@ class FlxSprite extends FlxObject
 	 * Avoid changing it frequently as this is a costly operation.
 	 * @since 4.1.0
 	 */
-	/**
-	 * GLSL shader for this sprite. Avoid changing it frequently as this is a costly operation.
-	 * @since 4.1.0
-	 */
 	public var shader:FlxShader;
 
 
