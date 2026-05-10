@@ -180,7 +180,7 @@ class FlxSprite extends FlxObject
 	 * Avoid changing it frequently as this is a costly operation.
 	 * @since 4.1.0
 	 */
-	public var shader:FlxShader;
+	public var shader:flixel.system.FlxAssets.FlxShader;
 
 
 	/**
