@@ -16,6 +16,7 @@ import flixel.math.FlxMath;
 import flixel.math.FlxMatrix;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
+import flixel.system.FlxAssets;
 import flixel.system.FlxAssets.FlxGraphicAsset;
 import flixel.util.FlxBitmapDataUtil;
 import flixel.util.FlxColor;
